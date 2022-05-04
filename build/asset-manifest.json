@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/css/main.d42ff6d6.css",
+    "main.js": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/js/main.cc2a2ba2.js",
+    "static/js/787.5227fab7.chunk.js": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/js/787.5227fab7.chunk.js",
+    "index.html": "/NoahNemhed-JAVA21-AJS-slutprojekt/index.html",
+    "main.d42ff6d6.css.map": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/css/main.d42ff6d6.css.map",
+    "main.cc2a2ba2.js.map": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/js/main.cc2a2ba2.js.map",
+    "787.5227fab7.chunk.js.map": "/NoahNemhed-JAVA21-AJS-slutprojekt/static/js/787.5227fab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42ff6d6.css",
+    "static/js/main.cc2a2ba2.js"
+  ]
+}

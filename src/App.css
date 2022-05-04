@@ -1,0 +1,36 @@
+.Products{
+    display: flex;
+}
+
+.Welcome-text{
+    color: white;
+}
+
+.Logout {
+    background-color: #DC143C; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    transition-property: transform, box-shadow;
+    transition-duration: .6s;
+  }
+  .Logout:hover {
+    cursor: pointer;
+    transform: scale(.9);
+    box-shadow: 0 3px 15px -2px;
+  }
+
+  .login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+
+

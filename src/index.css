@@ -1,0 +1,121 @@
+body {
+  text-align: center;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,8,40,1) 16%, rgba(0,212,255,1) 100%);
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around ;
+  margin: 0;
+  border: 1px solid lightslategray;
+}
+
+.header a {
+  padding: 2rem;
+  color: white;
+  text-decoration: none;
+}
+
+.col-1 {
+  flex: 1;
+  color: white;
+  border: 1px solid lightslategray;
+  
+}
+
+.col-2 {
+  flex: 2;
+  color: white;
+  border: 1px solid lightslategray;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.product-img{
+  max-height: 6rem;
+}
+
+.product-div{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.btn{
+  background-color: #DC143C; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  transition-property: transform, box-shadow;
+  transition-duration: .6s;
+}
+
+.btn:hover{
+  cursor: pointer;
+  transform: scale(.9);
+  box-shadow: 0 3px 15px -2px;
+}
+
+.add-button {
+  background-color: lightslategray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  transition-property: transform, box-shadow;
+  transition-duration: .6s;
+}
+
+
+.add-button:hover {
+  cursor: pointer;
+  transform: scale(.9);
+  box-shadow: 0 3px 15px -2px;
+}
+
+.check-out{
+  background-color: lightslategray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-property: transform, box-shadow;
+  transition-duration: .6s;
+}
+
+.check-out:hover{
+  cursor: pointer;
+  transform: scale(.9);
+  box-shadow: 0 3px 15px -2px;
+}
+
+.Amount{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-form{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2rem;
+}
+
+
